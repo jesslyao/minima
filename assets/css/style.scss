@@ -4,8 +4,3 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-.blue {
-  color: #fff;
-  background: #000;
-}
